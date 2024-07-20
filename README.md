@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LelandDanesh0263
 - 👀 I’m interested in computer science and programming
-- 🌱 I’m currently learning robot design via VEXIQ platform, and I learned a bit of data analysis via Rstudio
-- 💞️ I’m looking to collaborate on...
+- 🌱 I’m currently doing robotics via FTC platform, and I learned a bit of data analysis via Rstudio
+- 💞️ I’m looking to learn more coding and get new ideas for my work
 - 📫 How to reach me via email at lmalekitehrani29@shschools.org
 
 <!---
